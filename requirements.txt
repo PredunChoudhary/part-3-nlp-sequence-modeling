@@ -1,0 +1,18 @@
+pandas 
+numpy 
+matplotlib.pyplot 
+seaborn 
+re
+string
+sklearn.preprocessing import LabelEncoder
+sklearn.feature_extraction.text import CountVectorizer
+sklearn.feature_extraction.text import TfidfVectorizer
+sklearn.model_selection import train_test_split
+sklearn.linear_model import LogisticRegression
+sklearn.naive_bayes import MultinomialNB
+sklearn.metrics import classification_report
+sklearn.metrics import confusion_matrix
+sklearn.metrics import accuracy_score
+tensorflow
+tensorflow import keras
+tensorflow.keras import layers
